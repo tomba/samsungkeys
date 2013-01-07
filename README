@@ -1,0 +1,7 @@
+This is a small utility to handle Fn keys for Samsung NP700Z5C laptop, instead
+of using the Samsung's hotkey manager application.
+
+Currently handles LCD brightness and keyboard backlight.
+
+Very much under construction.
+
